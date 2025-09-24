@@ -46,8 +46,6 @@ STM32WL-Sensor-Board-Report_Showcase/
 
 ## System Architecture
 
-## Project Architecture
-
 The full system architecture is summarized in the block diagram:
 
 [📘 Block Diagram – STM32WL Sensor Node](https://github.com/CDonohoe-Designs/STM32WL-Sensor-Board-Report_Showcase/blob/main/STM32WL-Sensor-Board-Report%20(1)/Hardware/BlockDiagram_STM32_LoRa_Sens_ADC_AFE1.pdf)
