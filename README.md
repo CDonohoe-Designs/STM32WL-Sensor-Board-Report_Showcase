@@ -48,6 +48,7 @@ STM32WL-Sensor-Board-Report_Showcase/
 
 ![Block Diagram](Hardware/BlockDiagram_STM32_LoRa_Sens_ADC_AFE1.pdf)
 
+
 ---
 
 ## 📌 Highlights
